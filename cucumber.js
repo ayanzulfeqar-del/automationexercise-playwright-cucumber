@@ -6,5 +6,6 @@ module.exports = {
       'tests/support/*.js',
     ],
     format: ['progress', 'html:cucumber-report.html'],
+    headless: false,
   },
 };
