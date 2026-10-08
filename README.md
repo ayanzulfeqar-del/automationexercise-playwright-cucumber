@@ -28,3 +28,4 @@ $env:BROWSER_CHANNEL="bundled"; npm test      # PowerShell
 
 ## Scenarios so far
 - User account: register, login (right / wrong), logout, existing email
+- Products: all products, product details, search, category, brand
